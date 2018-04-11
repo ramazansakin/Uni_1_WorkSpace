@@ -1,0 +1,29 @@
+University;UniID;Department;DepID;Score Type;Quota
+Uni0;0;Computer Engineering;0;Q;15
+Uni0;0;Electronics Engineering;1;Q;25
+Uni0;0;Mathematics;12;Q;20
+Uni0;0;Textile Engineering;8;Q;10
+Uni0;0;Control Engineering;4;Q;15
+Uni0;0;Economy;19;Q;20
+Uni0;0;English Literature;29;V;10
+Uni0;0;Political Sciences;44;V;25
+Uni0;0;Sociology;45;V;15
+Uni0;0;Mathematics;12;Q;15
+Uni1;1;Computer Engineering;0;Q;10
+Uni1;1;Electronics Engineering;1;Q;25
+Uni1;1;Mechanical Engineering;3;Q;15
+Uni1;1;Chemistry;16;Q;25
+Uni1;1;Journalism;37;V;15
+Uni1;1;International Relations;43;V;20
+Uni1;1;Political Sciences;44;V;15
+Uni1;1;Radio TV and Cinema;42;V;20
+Uni2;2;Electronics Engineering;1;Q;10
+Uni2;2;Mechanical Engineering;3;Q;10
+Uni2;2;Control Engineering;4;Q;15
+Uni2;2;Mining Engineering;6;Q;25
+Uni2;2;Industrial Engineering;5;Q;20
+Uni3;3;Computer Engineering;0;Q;20
+Uni3;3;Electronics Engineering;1;Q;25
+Uni3;3;Turkish Literature;28;V;25
+Uni3;3;English Literature;29;V;15
+Uni3;3;Law;36;V;20
